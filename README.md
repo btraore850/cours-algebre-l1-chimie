@@ -8,7 +8,7 @@ https://btraore850.github.io/cours-algebre-l1-chimie/ (après activation de GitH
 
 ## Programme du cours
 
-**Mathématiques 1 — Algèbre (01-MTH 1102) — 3 ECTS** pour les trois parcours de chimie. Progression pédagogique optimisée en **30 h**, accessible sur [programme.html](programme.html). La maquette communique un volume administratif de 45 h.
+**Mathématiques 1 — Algèbre (01-MTH 1102) — 3 ECTS** pour les trois parcours de chimie. Programme réparti en **45 heures** (25 h CM, 15 h TD, 5 h TP), sur 15 semaines, avec 6 chapitres. [Consulter le programme détaillé](programme.html).
 
 ## Dossiers pédagogiques
 

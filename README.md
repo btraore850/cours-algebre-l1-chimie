@@ -6,6 +6,10 @@ Site de ressources pédagogiques de **M. Bakary TRAORE**, Université de N’Zé
 
 https://btraore850.github.io/cours-algebre-l1-chimie/ (après activation de GitHub Pages)
 
+## Programme du cours
+
+**Mathématiques 1 — Algèbre (01-MTH 1102) — 3 ECTS** pour les trois parcours de chimie. Progression pédagogique optimisée en **30 h**, accessible sur [programme.html](programme.html). La maquette communique un volume administratif de 45 h.
+
 ## Dossiers pédagogiques
 
 - `polycopie-du-cours/` — Polycopié du cours : Cours rédigés par chapitre : définitions, propriétés, méthodes, démonstrations et exemples.

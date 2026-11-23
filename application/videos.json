@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "chapitres": [
+    {
+      "numero": 1,
+      "titre": "Ensembles, applications et raisonnement"
+    },
+    {
+      "numero": 2,
+      "titre": "Nombres complexes et polynômes"
+    },
+    {
+      "numero": 3,
+      "titre": "Espaces vectoriels"
+    },
+    {
+      "numero": 4,
+      "titre": "Matrices et calcul matriciel"
+    },
+    {
+      "numero": 5,
+      "titre": "Systèmes d’équations linéaires"
+    },
+    {
+      "numero": 6,
+      "titre": "Introduction aux groupes"
+    }
+  ],
+  "videos": []
+}
